@@ -1,0 +1,35 @@
+D:\JakaGrafia\bin\Debug\$safeprojectname$.exe.config
+D:\JakaGrafia\obj\Debug\JakaGrafia.csprojResolveAssemblyReference.cache
+D:\JakaGrafia\obj\Debug\$safeprojectname$.Properties.Resources.resources
+D:\JakaGrafia\obj\Debug\JakaGrafia.csproj.GenerateResource.Cache
+D:\JakaGrafia\obj\Debug\JakaGrafia.Form1.resources
+D:\JakaGrafia\obj\Debug\JakaGrafia.KlasyfikacjaKrytriow.resources
+D:\JakaGrafia\bin\Debug\$safeprojectname$.exe
+D:\JakaGrafia\bin\Debug\$safeprojectname$.pdb
+D:\JakaGrafia\obj\Debug\$safeprojectname$.exe
+D:\JakaGrafia\obj\Debug\$safeprojectname$.pdb
+C:\Users\Dell\Desktop\JakaGrafia\bin\Debug\$safeprojectname$.exe.config
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\$safeprojectname$.exe
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\$safeprojectname$.pdb
+C:\Users\Dell\Desktop\JakaGrafia\bin\Debug\$safeprojectname$.exe
+C:\Users\Dell\Desktop\JakaGrafia\bin\Debug\$safeprojectname$.pdb
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\JakaGrafia.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\JakaGrafia.Form1.resources
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\JakaGrafia.KlasyfikacjaKrytriow.resources
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\Dell\Desktop\JakaGrafia\obj\Debug\JakaGrafia.csproj.GenerateResource.Cache
+D:\JakaGrafia\obj\Debug\JakaGrafia.config.resources
+D:\Dysk Google\studia pwr\P SWD\JakaGrafia\bin\Debug\$safeprojectname$.exe.config
+D:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\$safeprojectname$.exe
+D:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\$safeprojectname$.pdb
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\bin\Debug\$safeprojectname$.exe.config
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\$safeprojectname$.exe
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\$safeprojectname$.pdb
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\bin\Debug\$safeprojectname$.exe
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\bin\Debug\$safeprojectname$.pdb
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\JakaGrafia.csprojResolveAssemblyReference.cache
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\JakaGrafia.config.resources
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\JakaGrafia.Form1.resources
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\JakaGrafia.KlasyfikacjaKrytriow.resources
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\$safeprojectname$.Properties.Resources.resources
+G:\Dysk Google\studia pwr\P SWD\JakaGrafia\obj\Debug\JakaGrafia.csproj.GenerateResource.Cache
